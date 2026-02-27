@@ -4,9 +4,14 @@ comment-summary-in-pr: always
 
 allow-licenses:
   - MIT
+  - MIT-0
+  - MIT AND Zlib
+  - Zlib
   - GPL-3.0
   - BSD-3-Clause
-
+  - BSD-2-Clause
+  - ISC
+  - Apache-2.0
 fail-on-scopes:
   - development
   - runtime
